@@ -1,6 +1,7 @@
 # Create React App - Trip Today
 오늘의 여행 ( 여행 명소 정보 제공 플랫폼 )
 React 아웃소싱 팀프로젝트 2023.07.17-2023.07.24
+[배포주소] (https://triptoday.vercel.app/)
 
 # 프로젝트 소개
 오늘의 여행 ( 여행 명소 정보 제공 플랫폼 )
